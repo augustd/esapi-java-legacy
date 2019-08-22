@@ -128,7 +128,7 @@
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
             <!-- We need to use 1.9.2 (or later) here to address CVE-2014-0114. -->
-            <version>1.9.3</version>
+            <version>1.9.4</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
