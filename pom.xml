@@ -151,7 +151,7 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.3.2</version>
+            <version>1.3.3</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -186,7 +186,7 @@
         <dependency>
             <groupId>org.owasp.antisamy</groupId>
             <artifactId>antisamy</artifactId>
-            <version>1.5.5</version>
+            <version>1.5.7</version>
         </dependency>
         <!-- The following is only a TRANSITIVE dependency used by antisamy.
              Antisamy uses 2.7.0, which has unpatched vulnerability
@@ -203,7 +203,7 @@
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
             <artifactId>batik-css</artifactId>
-            <version>1.9</version>
+            <version>1.9.1</version>
         </dependency>
 		<!--  <dependency>
 		    <groupId>org.mockito</groupId>
